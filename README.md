@@ -1,2 +1,2 @@
 # tugasalgo1
-TUgas
+Tugas algoritma
